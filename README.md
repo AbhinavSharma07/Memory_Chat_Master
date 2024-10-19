@@ -18,3 +18,8 @@
 2. **Embedding Creation:** Text chunks are converted into numerical vectors.
 3. **Memory-Powered Chat:** As you chat, the bot retrieves relevant content and maintains conversation history.
 4. **Ask Anything:** Keep chatting—every response is tailored based on both your query and prior interactions!
+
+
+ ''' text
+ pip install langchain openai pypdf tiktoken chromadb
+ '''
