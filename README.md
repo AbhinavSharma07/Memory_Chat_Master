@@ -20,6 +20,6 @@
 4. **Ask Anything:** Keep chatting—every response is tailored based on both your query and prior interactions!
 
 
- ''' text
+```text
  pip install langchain openai pypdf tiktoken chromadb
- '''
+ ```
