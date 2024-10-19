@@ -19,7 +19,17 @@
 3. **Memory-Powered Chat:** As you chat, the bot retrieves relevant content and maintains conversation history.
 4. **Ask Anything:** Keep chatting—every response is tailored based on both your query and prior interactions!
 
+---
+
+## Dependencies:
 
 ```text
  pip install langchain openai pypdf tiktoken chromadb
+ ```
+
+## Sample PDF
+
+```text
+curl -o document.pdf "https://bitcoin.org/bitcoin.pdf"
+
  ```
